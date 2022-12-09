@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.081015b7.css",
-    "main.js": "/static/js/main.0e29da12.js",
+    "main.js": "/static/js/main.8aa9ff95.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/cyjimg1.png": "/static/media/cyjimg1.c2e86a886f2aea707721.png",
     "static/media/cyjimg2.png": "/static/media/cyjimg2.4577dc3ff0000494de3b.png",
@@ -14,7 +14,7 @@
     "static/media/mjhimg5.png": "/static/media/mjhimg5.f8edfcc588d93711f882.png",
     "static/media/mjhimg1.png": "/static/media/mjhimg1.efbd8a380644a19d1c30.png",
     "static/media/mjhimg4.png": "/static/media/mjhimg4.be6e29bd9dcf83b07ceb.png",
-    "static/media/kyuimg2.png": "/static/media/kyuimg2.a4adddef0dc2b4daba23.png",
+    "static/media/kyuimg2.png": "/static/media/kyuimg2.87d3476c6402b502265c.png",
     "static/media/sshimg9.png": "/static/media/sshimg9.5b1c6319be9dfa7b538b.png",
     "static/media/sshimg4.png": "/static/media/sshimg4.c4a744940dd384a3c775.png",
     "static/media/sshimg5.png": "/static/media/sshimg5.2f8da22c568cc99ea142.png",
@@ -27,11 +27,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
     "main.081015b7.css.map": "/static/css/main.081015b7.css.map",
-    "main.0e29da12.js.map": "/static/js/main.0e29da12.js.map",
+    "main.8aa9ff95.js.map": "/static/js/main.8aa9ff95.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.081015b7.css",
-    "static/js/main.0e29da12.js"
+    "static/js/main.8aa9ff95.js"
   ]
 }
